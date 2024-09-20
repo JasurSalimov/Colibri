@@ -10,27 +10,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gU1B5XJ2k71wR++rO+G+OkgQXcY=
+		+tsFkkDP5+i2xQQOm7PzwzOLZ8g=
 		</data>
 		<key>Modules/Colibri.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		3pA3rqBDDhArLTpTJF6x8WXYOcQ=
+		Z4NE19WcDKZpxAd2LgCFrS52+6A=
 		</data>
 		<key>Modules/Colibri.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		AlYX/wQSF7MZt3PW+1xfLjAe6lM=
+		ezSM4Phy6aDZvsDMcCfemDHE+CY=
 		</data>
 		<key>Modules/Colibri.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		4ZTgAGJwyfqzhTUJU8oU43MlGyQ=
+		hCzOpjigaijN3CCPmz19DYaakao=
 		</data>
 		<key>Modules/Colibri.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		AlYX/wQSF7MZt3PW+1xfLjAe6lM=
+		ezSM4Phy6aDZvsDMcCfemDHE+CY=
 		</data>
 		<key>Modules/Colibri.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		b9Dw/wPaLda+l4tvLy/No+o8jKA=
+		cBcWbqpcIqF5FoFZE764njVECuM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,35 +50,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PKTM2DSy+w45z63cx/G3OOfM0VuWGu4/K2oZrGcg3X4=
+			qUaT2WHoJw8q25hDBxXqMcDLo9e7d8z8kuSPhABWre4=
 			</data>
 		</dict>
 		<key>Modules/Colibri.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zhlDtzikMjvNu7It/+XlEpF/i8k0gDvl4PSZ4bZdNCo=
+			9bGMj6ZSDlvm03knNIdmdqNep+UDA/d3fz09jd/lIhA=
 			</data>
 		</dict>
 		<key>Modules/Colibri.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0VLhDknszYm4sE7SdD2tEnm/7FhT0wiakFUXrNJ6n+M=
+			VtXoFRFD8Hf6cj35+MwGgd10aHjcmyPFgg+mtjEFHGw=
 			</data>
 		</dict>
 		<key>Modules/Colibri.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zhlDtzikMjvNu7It/+XlEpF/i8k0gDvl4PSZ4bZdNCo=
+			9bGMj6ZSDlvm03knNIdmdqNep+UDA/d3fz09jd/lIhA=
 			</data>
 		</dict>
 		<key>Modules/Colibri.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yya4gKw7k//DmxhUtYj0y1Oxnu0ugdrgvTqGi2PsRQc=
+			mwQ7fyonfE8IvgtkQlz39+/alRI05Yvxm1BU2Qcl7xo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

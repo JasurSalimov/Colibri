@@ -4,12 +4,8 @@
 [![License](https://img.shields.io/cocoapods/l/Colibri.svg?style=flat)](https://cocoapods.org/pods/Colibri)
 [![Platform](https://img.shields.io/cocoapods/p/Colibri.svg?style=flat)](https://cocoapods.org/pods/Colibri)
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Requirements
-iOS 11
+iOS 11 & Swift 5.0
 
 ## Installation
 
